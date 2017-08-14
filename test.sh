@@ -1,3 +1,4 @@
+#!/usr/bin/env bash
 set -e
 
 yes "" | ./node_modules/.bin/vue init . test
